@@ -1,2 +1,2 @@
 # MUNO
-Completar
+UNO card game with special mirror card.
